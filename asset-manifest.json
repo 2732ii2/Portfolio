@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.390f9bf0.css",
-    "main.js": "/Portfolio/static/js/main.a5cf2374.js",
+    "main.css": "/Portfolio/static/css/main.b4163e0c.css",
+    "main.js": "/Portfolio/static/js/main.bffba601.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/sechero.png": "/Portfolio/static/media/sechero.28278f0e16b90d8f9bd3.png",
     "static/media/music.png": "/Portfolio/static/media/music.00f0b83041c75881eb0f.png",
+    "static/media/Wasserstoff.png": "/Portfolio/static/media/Wasserstoff.e78f342b3fdd542b18b2.png",
     "static/media/shoppcart.png": "/Portfolio/static/media/shoppcart.a48602a4e26d39de3dce.png",
     "static/media/todo.png": "/Portfolio/static/media/todo.71a8dfaf3ce32b43cc1d.png",
     "static/media/kriova.png": "/Portfolio/static/media/kriova.018dd912f83fead2693a.png",
@@ -13,12 +14,12 @@
     "static/media/snake.png": "/Portfolio/static/media/snake.37d0e9f7e9d5133b00e2.png",
     "static/media/porto.jpeg": "/Portfolio/static/media/porto.cd2ca655259ef806a17c.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.390f9bf0.css.map": "/Portfolio/static/css/main.390f9bf0.css.map",
-    "main.a5cf2374.js.map": "/Portfolio/static/js/main.a5cf2374.js.map",
+    "main.b4163e0c.css.map": "/Portfolio/static/css/main.b4163e0c.css.map",
+    "main.bffba601.js.map": "/Portfolio/static/js/main.bffba601.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390f9bf0.css",
-    "static/js/main.a5cf2374.js"
+    "static/css/main.b4163e0c.css",
+    "static/js/main.bffba601.js"
   ]
 }
