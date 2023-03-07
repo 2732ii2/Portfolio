@@ -23,8 +23,8 @@ The Project is hosted Live at : [https://2732ii2.github.io/Portfolio/](https://2
 ## Screenshots
 <img width="1428" alt="Port" src="https://user-images.githubusercontent.com/83974207/223373689-91e5b9e1-d677-4834-922e-035be77d1f03.png">
 <div display="flex-inline" > 
-    <img width="500"  alt="Screenshot 2023-03-07 at 2 33 33 PM" src="https://user-images.githubusercontent.com/83974207/223374918-cad24ea8-61db-4219-bf6c-d2030c2ba17b.png">
-<img width="500"  alt="Screenshot 2023-03-07 at 2 36 38 PM" src="https://user-images.githubusercontent.com/83974207/223375236-14bc04d5-3f13-447a-9229-2b9ce96f9769.png">
+    <img width="350"  alt="Screenshot 2023-03-07 at 2 33 33 PM" src="https://user-images.githubusercontent.com/83974207/223374918-cad24ea8-61db-4219-bf6c-d2030c2ba17b.png">
+<img width="350"  alt="Screenshot 2023-03-07 at 2 36 38 PM" src="https://user-images.githubusercontent.com/83974207/223375236-14bc04d5-3f13-447a-9229-2b9ce96f9769.png">
 </div>
 
 
