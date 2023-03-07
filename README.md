@@ -21,7 +21,8 @@ Simple step's you have to follow to getting starting with this application
 The Project is hosted Live at : [https://2732ii2.github.io/Portfolio/](https://2732ii2.github.io/Portfolio/)
 
 ## Screenshots
-<img width="1440" alt="one" src="https://drive.google.com/file/d/18BTkN_oaZ5GVNoS5GCntIOMu4YFV-8HE/view">
+<img width="1428" alt="Port" src="https://user-images.githubusercontent.com/83974207/223373689-91e5b9e1-d677-4834-922e-035be77d1f03.png">
+
 
 The way I approached to this task is basically:
   - the most difficult and important was making the positioning of div's in which it's work beautifully .
